@@ -1,3 +1,26 @@
-# comecandodozero
+# twbs-seed
+Boilerplate and custom bootstrap configuration to build faster, using Sass and Jade Template Engine.
 
-## Página com videos do youtube
+## Commands
+
+Install dependencies
+```sh
+npm install
+```
+
+Starts development:
+```
+gulp serve
+```
+Build:
+```
+gulp
+```
+Serve dist:
+```
+gulp serve:dist
+```
+Clean:
+```
+gulp clean
+```
